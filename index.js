@@ -8,8 +8,8 @@ return facts
 function johnLennonFacts(array) {
 let i = 0
 while (i < array.length) {
-  johnLennonFacts.push(`${array[i]}!!!`)
-  i +=1
+johnLennonFacts.push(`${array[i]}!!!`)
+i +=1
 }
 return johnLennonFacts
 }
