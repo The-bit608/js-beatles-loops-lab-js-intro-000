@@ -7,6 +7,7 @@ return facts
 }
 function johnLennonFacts(array) {
 let i = 0
+let johnLennonFacts = []
 while (i < array.length) {
 johnLennonFacts.push(`${array[i]}!!!`)
 i +=1
