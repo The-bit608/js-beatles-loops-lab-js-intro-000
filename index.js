@@ -6,6 +6,7 @@ facts.push(`${musicians[i]} plays ${instruments[i]}`)
 return facts
 }
 function johnLennonFacts(array) {
+let i = 0
 while (i < array.length) {
   johnLennonFacts.push (`${array[i]}!!!`)
   i +=1
