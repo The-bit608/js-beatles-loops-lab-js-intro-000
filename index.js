@@ -19,4 +19,5 @@ let iLoveTheBeatles = []
 do {
   iLoveTheBeatles.push('I love the Beatles!')
 } while (iLoveTheBeatles < number)
+return iLoveTheBeatles
 }
