@@ -14,6 +14,6 @@ i +=1
 }
 return johnLennonFacts
 }
-function iLoveTheBeatles() {
-
+function iLoveTheBeatles(number) {
+let iLoveTheBeatles = []
 }
