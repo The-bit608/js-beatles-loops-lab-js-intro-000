@@ -1,5 +1,5 @@
 function theBeatlesPlay(musicians, instruments) {
-for () {
+for (let i = 0) {
 
 }
 }
