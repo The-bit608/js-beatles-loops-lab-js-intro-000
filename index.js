@@ -5,7 +5,7 @@ facts.push(`${musicians[i]} plays ${instruments[i]}`)
 }
 return facts
 }
-function johnLennonFacts() {
+function johnLennonFacts(array) {
 
 }
 function iLoveTheBeatles() {
