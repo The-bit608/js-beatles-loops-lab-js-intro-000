@@ -1,1 +1,9 @@
-function theBeatlesPlay()
+function theBeatlesPlay() {
+  
+}
+function johnLennonFacts() {
+
+}
+function iLoveTheBeatles() {
+  
+}
