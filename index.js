@@ -18,6 +18,6 @@ function iLoveTheBeatles(number) {
 let iLoveTheBeatles = []
 do {
   iLoveTheBeatles.push('I love the Beatles!')
-} while (iLoveTheBeatles < 15)
+} while (number < 15)
 return iLoveTheBeatles
 }
