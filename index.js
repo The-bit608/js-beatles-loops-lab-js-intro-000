@@ -16,4 +16,7 @@ return johnLennonFacts
 }
 function iLoveTheBeatles(number) {
 let iLoveTheBeatles = []
+do {
+  iLoveTheBeatles.push('I love the Beatles!')
+} while (iLoveTheBeatles < number)
 }
